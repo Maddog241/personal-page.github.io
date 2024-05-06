@@ -1,0 +1,59 @@
+mode: light
+
+avatar:
+  enable: true
+  url: /favicon.png
+  status:
+    enable: true
+    emoji: 😭
+    message: 不知道咋学
+  
+# colors:
+#   primary: "#000000"
+#   bg: "#000000"
+#   tag_start_color: "#87CEEB"
+#   selection_bg: "#FF0000"
+
+social: 
+  - name: Github
+    link: https://github.com/Maddog241
+    icon: icon-github-line
+    color: "#6e5494"
+
+banner:
+  enable: true
+  title: 叹气猫日记
+  border: true
+  cloud: 
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
+
+favicon: /favicon.png
+
+# bg_image:
+#   enable: true
+#   url: /images/snow.jpg
+#   dark: /images/snow.jpg
+#   opacity: 1
+
+  
+fireworks:
+  enable: false
+
+reward:
+  enable: false
+
+say:
+  enable: false
+
+footer: 
+  since: 2022
+
+  live_time:
+    enable: true
+    start_time: "2022-03-26T00:00:00"
+
+  
